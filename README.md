@@ -49,7 +49,7 @@ I'm a fresher passionate about building reliable software and ensuring quality t
 
 * LinkedIn: [www.linkedin.com/in/supreethal](http://www.linkedin.com/in/supreethal)
 * HackerRank: [www.hackerrank.com/profile/supreeth40](http://www.hackerrank.com/profile/supreeth40)
-* LeetCode: leetcode.com/u/supreethal
+* LeetCode: [leetcode.com/u/supreethal](https://leetcode.com/u/supreethal/)
 
 ## Featured Projects
 
