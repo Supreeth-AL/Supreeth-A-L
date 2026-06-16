@@ -48,15 +48,20 @@ I'm a fresher passionate about building reliable software and ensuring quality t
 ## Coding Profiles
 
 <a href="https://www.linkedin.com/in/supreethal/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+       width="40" height="40" alt="LinkedIn"
+       style="margin-right: 30px;" />
 </a>
 
 <a href="https://www.hackerrank.com/profile/supreeth40">
-  <img src="https://cdn.simpleicons.org/hackerrank" width="40" height="40" alt="HackerRank"/>
+  <img src="https://cdn.simpleicons.org/hackerrank"
+       width="40" height="40" alt="HackerRank"
+       style="margin-right: 30px;" />
 </a>
 
 <a href="https://leetcode.com/u/supreethal/">
-  <img src="https://cdn.simpleicons.org/leetcode" width="40" height="40" alt="LeetCode"/>
+  <img src="https://cdn.simpleicons.org/leetcode"
+       width="40" height="40" alt="LeetCode" />
 </a>
 
 ## Featured Projects
