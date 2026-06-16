@@ -53,17 +53,36 @@ I'm a fresher passionate about building reliable software and ensuring quality t
 
 ## Featured Projects
 
-### Java Projects
+### 🏦 Bank Management System
 
-Add your best Java projects here.
+**Tech Stack:** Java, MySQL, JDBC, HTML, CSS, JavaScript
 
-### Full Stack Projects
+Developed a banking application that enables account creation, deposits, withdrawals, fund transfers, and transaction history management with secure database integration.
 
-Add your React.js and database projects here.
+### 📄 Loan Application System
 
-### Testing Projects
+**Tech Stack:** React.js, JavaScript, React Hook Form, Zod
 
-Add your Selenium and Postman projects here.
+Built a multi-step loan application platform featuring form validation, co-applicant management, document uploads, address verification, and e-signature support.
+
+### 🔌 Custom API Development
+
+**Tech Stack:** Java, REST APIs, MySQL, Postman
+
+Designed and developed RESTful APIs with CRUD operations, validation, error handling, and database connectivity. Tested endpoints using Postman to ensure reliability and performance.
+
+### ⚡ QuickBit
+
+**Tech Stack:** (Add your technologies)
+
+Developed a modern application focused on efficient transaction processing and user-friendly workflows. Implemented core business logic, database integration, and responsive user interfaces.
+
+### 📚 Library Management System
+
+**Tech Stack:** Java, MySQL
+
+Created a library management system for managing books, users, issue/return operations, and maintaining records through database-driven workflows.
+
 
 ## What Makes Me Different
 
