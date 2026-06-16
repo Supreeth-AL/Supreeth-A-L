@@ -49,8 +49,15 @@ I'm a fresher passionate about building reliable software and ensuring quality t
 
 <a href="https://www.linkedin.com/in/supreethal/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
-* HackerRank: [www.hackerrank.com/profile/supreeth40](http://www.hackerrank.com/profile/supreeth40)
-* LeetCode: [leetcode.com/u/supreethal](https://leetcode.com/u/supreethal/)
+</a>
+
+<a href="https://www.hackerrank.com/profile/supreeth40">
+  <img src="https://cdn.simpleicons.org/hackerrank" width="40" height="40" alt="HackerRank"/>
+</a>
+
+<a href="https://leetcode.com/u/supreethal/">
+  <img src="https://cdn.simpleicons.org/leetcode" width="40" height="40" alt="LeetCode"/>
+</a>
 
 ## Featured Projects
 
