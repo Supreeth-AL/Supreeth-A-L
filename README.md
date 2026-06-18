@@ -40,11 +40,6 @@ I'm a fresher passionate about building reliable software and ensuring quality t
 * VS Code
 * Eclipse
 
-## Certifications
-
-* Java Certification
-* Full Stack Development Certification (Zetheta)
-
 ## Coding Profiles
 <p>
   <a href="https://www.linkedin.com/in/supreethal/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/></a>
